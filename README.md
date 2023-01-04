@@ -1,4 +1,4 @@
-# Socket-Programming
+# Socket Programming
 
 Simple implementation of socket programming, implementing two services:
   1. Displaying the pre-requisites for the Core CS courses offered at Ashoka University
